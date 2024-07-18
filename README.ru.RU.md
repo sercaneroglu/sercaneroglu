@@ -1,4 +1,4 @@
-[🇷🇺](./README.ru.RU.md) | [🇹🇷](./readme.md) | [Английский](./README.en-US.md)
+[🇷🇺](./README.ru.RU.md) | [🇹🇷](./README.md) | [Английский](./README.en-US.md)
 
 # Здравствуйте, вы можете связаться с нами по ссылкам ниже.
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](#)
