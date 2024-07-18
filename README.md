@@ -1,4 +1,4 @@
-[🇷🇺](./README.ru.RU.md) | 🇹🇷 | [English](./README.en-US.md)
+[🇷🇺](./README.ru.RU.md) | 🇹🇷
 
 # Merhaba, Aşağıdaki Linklerden Ulaşabilirsin.
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](#)
